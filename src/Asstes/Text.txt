@@ -1,0 +1,66 @@
+            <!-- Social Icons -->
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <!-- Facebook -->
+                    <td class="pr-[6px]" style="padding-right: 6px;">
+                        <a href="#" target="_blank" style="display: block; text-decoration: none;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="background-color: #3b5998; border-radius: 4px; width: 24px; height: 24px;">
+                                <tr>
+                                    <td align="center" valign="middle">
+                                        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/facebook-f.png" alt="FB" style="display:block; width:14px; height:14px; border:none;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </td>
+                    <!-- X -->
+                    <td class="pr-[6px]" style="padding-right: 6px;">
+                        <a href="#" target="_blank" style="display: block; text-decoration: none;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="background-color: #000000; border-radius: 4px; width: 24px; height: 24px;">
+                                <tr>
+                                    <td align="center" valign="middle">
+                                        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" alt="X" style="display:block; width:14px; height:14px; border:none;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </td>
+                    <!-- LinkedIn -->
+                    <td class="pr-[6px]" style="padding-right: 6px;">
+                        <a href="#" target="_blank" style="display: block; text-decoration: none;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="background-color: #007bb5; border-radius: 4px; width: 24px; height: 24px;">
+                                <tr>
+                                    <td align="center" valign="middle">
+                                        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="IN" style="display:block; width:14px; height:14px; border:none;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </td>
+                    <!-- Instagram -->
+                    <td class="pr-[6px]" style="padding-right: 6px;">
+                        <!-- Using solid color fallback for emails that do not process gradient -->
+                        <a href="#" target="_blank" style="display: block; text-decoration: none;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); background-color: #cd486b; border-radius: 4px; width: 24px; height: 24px;">
+                                <tr>
+                                    <td align="center" valign="middle">
+                                        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/instagram-new.png" alt="IG" style="display:block; width:14px; height:14px; border:none;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </td>
+                    <!-- Pinterest -->
+                    <td>
+                        <a href="#" target="_blank" style="display: block; text-decoration: none;">
+                            <table cellpadding="0" cellspacing="0" border="0" style="background-color: #cb2027; border-radius: 4px; width: 24px; height: 24px;">
+                                <tr>
+                                    <td align="center" valign="middle">
+                                        <img src="https://img.icons8.com/ios-filled/50/FFFFFF/pinterest.png" alt="PT" style="display:block; width:14px; height:14px; border:none;" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </td>
+                </tr>
+            </table>
